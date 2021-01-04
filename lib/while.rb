@@ -1,5 +1,5 @@
-counter = 6
+levitation_force = 6
 puts "Wingardium Leviosa"
-while counter > 10
-  counter += 1
+while levitation_force > 10
+  levitation_force += 1
 end
